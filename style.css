@@ -8,3 +8,4 @@ body { background-color: var(--cor-de-fundo);color: var(--branco-principal); }
 
 background-repeat:no-repeat;
 background-size: contain;
+class="container__botao"
